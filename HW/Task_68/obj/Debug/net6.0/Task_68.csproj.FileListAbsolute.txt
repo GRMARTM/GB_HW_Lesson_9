@@ -1,0 +1,15 @@
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\bin\Debug\net6.0\Task_68.exe
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\bin\Debug\net6.0\Task_68.deps.json
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\bin\Debug\net6.0\Task_68.runtimeconfig.json
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\bin\Debug\net6.0\Task_68.dll
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\bin\Debug\net6.0\Task_68.pdb
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\obj\Debug\net6.0\Task_68.csproj.AssemblyReference.cache
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\obj\Debug\net6.0\Task_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\obj\Debug\net6.0\Task_68.AssemblyInfoInputs.cache
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\obj\Debug\net6.0\Task_68.AssemblyInfo.cs
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\obj\Debug\net6.0\Task_68.csproj.CoreCompileInputs.cache
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\obj\Debug\net6.0\Task_68.dll
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\obj\Debug\net6.0\refint\Task_68.dll
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\obj\Debug\net6.0\Task_68.pdb
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\obj\Debug\net6.0\Task_68.genruntimeconfig.cache
+C:\Users\Громов Артём\Desktop\Артем\Обучение\dotnet\Sem_9\HW\Task_68\obj\Debug\net6.0\ref\Task_68.dll
